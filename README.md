@@ -16,7 +16,7 @@ This is an official implementation of [SDGF: Fusing Static and Multi-Scale Dynam
 Our proposed SDGF Network consists of three key modules: Graph Structure Learning module that uses RevIN normalization and Multi-level Wavelet Decomposition to construct static and dynamic inter-series graphs, an Attention Gated Fusion module that adaptively integrates static and dynamic graph features, and Temporal Feature Learning module that employs multi-kernel dilated convolutions and an MLP-based output layer to capture temporal dependencies and generate predictions.
 
 <div align=center>
-<img src="https://github.com/WSX378350448/SDGFNet/blob/main/pic/model.png" width='45%'> <img src="https://github.com/WSX378350448/SDGFNet/blob/main/pic/model.png" width='47%'>
+<img src="https://github.com/WSX378350448/SDGFNet/blob/main/pic/model.png" width='45%'>
 </div>
 
 
