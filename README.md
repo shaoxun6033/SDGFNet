@@ -34,7 +34,6 @@ If you have any questions, please contact us or submit an issue.
 
 We appreciate the valuable contributions of the following GitHub.
 
-- LTSF-Linear (https://github.com/cure-lab/LTSF-Linear)
 - TimesNet (https://github.com/thuml/TimesNet)
 - Time-Series-Library (https://github.com/thuml/Time-Series-Library)
 - MSGNet (https://github.com/YoZhibo/MSGNet)
