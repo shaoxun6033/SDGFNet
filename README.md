@@ -24,7 +24,8 @@ Our proposed SDGF Network consists of three key modules: Graph Structure Learnin
 
 If you find this repo useful, please cite our paper as follows:
 ```
-
+SDGF: Fusing Static and Multi-Scale Dynamic Correlations for Multivariate Time Series Forecasting
+https://doi.org/10.48550/arXiv.2509.18135
 ```
 
 ## Contact
